@@ -1,0 +1,223 @@
+html {
+    display: block;
+}
+
+head {
+    display: none;
+}
+
+body {
+    background: #F0D8CC;
+    display: block;
+    margin: 8px;
+    width: 1440px;
+    height: 1024px;
+}
+
+.totem {
+    background-color: rgba(117.00000062584877, 103.0000014603138, 99.00000169873238, 1);
+    width: 350px;
+    height: 1440px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    position: static;
+}
+
+.title_1 {
+    color: rgba(0, 0, 0, 1);
+    width: 956px;
+    height: 99px;
+    position: absolute;
+    left: 440px;
+    top: 40px;
+    font-family: Lora;
+    text-align: left;
+    font-size: 48px;
+    letter-spacing: 0;
+}
+
+.title_2 {
+    color: rgba(0, 0, 0, 1);
+    width: 956px;
+    height: 99px;
+    position: absolute;
+    left: 440px;
+    top: 314px;
+    font-family: Lora;
+    text-align: left;
+    font-size: 48px;
+    letter-spacing: 0;
+}
+
+.title_3 {
+    color: rgba(0, 0, 0, 1);
+    width: 956px;
+    height: 99px;
+    position: absolute;
+    left: 440px;
+    top: 646px;
+    font-family: Lora;
+    text-align: left;
+    font-size: 48px;
+    letter-spacing: 0;
+}
+
+.title_4 {
+    color: rgba(51.00000075995922, 51.00000075995922, 51.00000075995922, 1);
+    width: 258px;
+    height: 49px;
+    position: absolute;
+    left: 50px;
+    top: 367px;
+    font-family: Lora;
+    text-align: center;
+    font-size: 25px;
+    letter-spacing: 0;
+}
+
+.title_5 {
+    color: rgba(51.00000075995922, 51.00000075995922, 51.00000075995922, 1);
+    width: 258px;
+    height: 49px;
+    position: absolute;
+    left: 50px;
+    top: 503px;
+    font-family: Lora;
+    text-align: center;
+    font-size: 25px;
+    letter-spacing: 0;
+}
+
+.title_6 {
+    color: rgba(51.00000075995922, 51.00000075995922, 51.00000075995922, 1);
+    width: 258px;
+    height: 49px;
+    position: absolute;
+    left: 50px;
+    top: 665px;
+    font-family: Lora;
+    text-align: center;
+    font-size: 25px;
+    letter-spacing: 0;
+}
+
+.title_7 {
+    color: rgba(51.00000075995922, 51.00000075995922, 51.00000075995922, 1);
+    width: 258px;
+    height: 49px;
+    position: absolute;
+    left: 50px;
+    top: 808px;
+    font-family: Lora;
+    text-align: center;
+    font-size: 25px;
+    letter-spacing: 0;
+}
+
+.inside_1 {
+    color: rgba(0, 0, 0, 1);
+    width: 966px;
+    height: 140px;
+    position: absolute;
+    left: 440px;
+    top: 139px;
+    font-family: Lora;
+    text-align: justified;
+    font-size: 18px;
+    letter-spacing: 0;
+}
+
+.inside_2 {
+    color: rgba(0, 0, 0, 1);
+    width: 966px;
+    height: 224px;
+    position: absolute;
+    left: 440px;
+    top: 403px;
+    font-family: Lora;
+    text-align: justified;
+    font-size: 18px;
+    letter-spacing: 0;
+}
+
+.inside_3 {
+    color: rgba(0, 0, 0, 1);
+    width: 966px;
+    height: 140px;
+    position: absolute;
+    left: 440px;
+    top: 733px;
+    font-family: Lora;
+    text-align: justified;
+    font-size: 18px;
+    letter-spacing: 0;
+}
+
+.perfil {
+    width: 258px;
+    height: 270px;
+    position: absolute;
+    left: 54px;
+    top: 54px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-image: url(images/Perfil.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.contato {
+    color: rgba(51.00000075995922, 51.00000075995922, 51.00000075995922, 1);
+    width: 258px;
+    height: 23px;
+    position: absolute;
+    left: 54px;
+    top: 410px;
+    font-family: Lora;
+    text-align: left;
+    font-size: 15px;
+    letter-spacing: 0;
+}
+
+.softskills {
+    color: rgba(51.00000075995922, 51.00000075995922, 51.00000075995922, 1);
+    width: 258px;
+    height: 23px;
+    position: absolute;
+    left: 54px;
+    top: 557px;
+    font-family: Lora;
+    text-align: left;
+    font-size: 15px;
+    letter-spacing: 0;
+}
+
+.habilidades {
+    color: rgba(51.00000075995922, 51.00000075995922, 51.00000075995922, 1);
+    width: 258px;
+    height: 23px;
+    position: absolute;
+    left: 54px;
+    top: 714px;
+    font-family: Lora;
+    text-align: left;
+    font-size: 15px;
+    letter-spacing: 0;
+}
+
+.idiomas {
+    color: rgba(51.00000075995922, 51.00000075995922, 51.00000075995922, 1);
+    width: 258px;
+    height: 23px;
+    position: absolute;
+    left: 54px;
+    top: 860px;
+    font-family: Lora;
+    text-align: left;
+    font-size: 15px;
+    letter-spacing: 0;
+}
