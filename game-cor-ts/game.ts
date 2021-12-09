@@ -1,8 +1,6 @@
 document.querySelector('#iniciar').addEventListener('click', adivinhacao);
 
-let arrCores: Array <string> = [
-    'Red','Blue','Green','Yellow','Magenta','Cyan','Grey','Black','Brown','White','Violet','Indigo'
-];
+let arrCores: Array <string> = ["Red","Blue","Green","Yellow","Magenta","Cyan","Grey","Black","Brown","White","Violet","Indigo"];
 
 
 function adivinhacao(): void {
@@ -21,8 +19,7 @@ function adivinhacao(): void {
 
 	let chances: number = 5;
 	let inputUser: string;
-	// console.log(corSorteada);
-
+	
 	while (chances > 0) {
 		inputUser = prompt(`Eu escolhi apenas uma dessas cores: ${vetorCores.join(", ")} \n\nVocê tem ${chances} chances de adivinhar a cor! \nDigite uma:`);
 
