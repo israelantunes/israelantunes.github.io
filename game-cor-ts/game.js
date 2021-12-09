@@ -1,7 +1,7 @@
 document.querySelector('#iniciar').addEventListener('click', adivinhacao);
-var arrCores = [
-    'Red','Blue','Green','Yellow','Magenta','Cyan','Grey','Black','Brown','White','Violet','Indigo'
-];
+
+var arrCores = ["Red","Blue","Green","Yellow","Magenta","Cyan","Grey","Black","Brown","White","Violet","Indigo"];
+
 function adivinhacao() {
     var coresAleatorias;
     var vetorCores = [];
