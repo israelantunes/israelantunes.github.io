@@ -5,7 +5,7 @@ var arrCores = [
 function adivinhacao() {
     var coresAleatorias;
     var vetorCores = [];
-    for (var i = 0; i < 10; i++) {
+    for (var i = 0; i < 6; i++) {
         coresAleatorias = Math.floor((Math.random() * arrCores.length) + 1);
         vetorCores.push(arrCores[coresAleatorias]);
     }
