@@ -9,7 +9,7 @@ function adivinhacao(): void {
 	let coresAleatorias: number;
 	let vetorCores: Array <string> = [];
 
-	for (let i = 0; i < 10; i++) {
+	for (let i = 0; i < 6; i++) {
 		coresAleatorias = Math.floor((Math.random() * arrCores.length) + 1);
 		vetorCores.push(arrCores[coresAleatorias]);
 	}
